@@ -1,0 +1,10 @@
+C:\Users\arsen\source\repos\4 лаба\4 лаба\bin\Debug\4 лаба.exe.config
+C:\Users\arsen\source\repos\4 лаба\4 лаба\bin\Debug\4 лаба.exe
+C:\Users\arsen\source\repos\4 лаба\4 лаба\bin\Debug\4 лаба.pdb
+C:\Users\arsen\source\repos\4 лаба\4 лаба\obj\Debug\4 лаба.csproj.AssemblyReference.cache
+C:\Users\arsen\source\repos\4 лаба\4 лаба\obj\Debug\_4_лаба.Form1.resources
+C:\Users\arsen\source\repos\4 лаба\4 лаба\obj\Debug\_4_лаба.Properties.Resources.resources
+C:\Users\arsen\source\repos\4 лаба\4 лаба\obj\Debug\4 лаба.csproj.GenerateResource.cache
+C:\Users\arsen\source\repos\4 лаба\4 лаба\obj\Debug\4 лаба.csproj.CoreCompileInputs.cache
+C:\Users\arsen\source\repos\4 лаба\4 лаба\obj\Debug\4 лаба.exe
+C:\Users\arsen\source\repos\4 лаба\4 лаба\obj\Debug\4 лаба.pdb
